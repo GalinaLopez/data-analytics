@@ -2,4 +2,4 @@
 https://data-analytics/
 
 # galinalopez.github.io
-https://galinalopez.github.io/
+https://data-analytics/
