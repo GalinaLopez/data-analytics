@@ -1,2 +1,2 @@
 # data-analytics portfolio
-https://data-analytics/
+https://github.com/GalinaLopez/data-analytics
